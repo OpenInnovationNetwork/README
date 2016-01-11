@@ -1,8 +1,10 @@
 Unless otherwise specific, content in this repository is subject to the MIT License directly below.
 
-# The MIT License (MIT)
+# License Terms
 
-## Copyright (c) 2016 OpenInnovationNetwork
+## The MIT License (MIT)
+
+### Copyright (c) 2016 OpenInnovationNetwork
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -22,7 +24,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-# License for  js/isotope.pkgd.min.js
+## Other Licenses
+
+### License for  js/isotope.pkgd.min.js
 
 The JavaScript used for filtering cards and other content is subject to a non-MIT license.  This JavaScript content is encapsulated entirely within the following file:
 https://github.com/OpenInnovationNetwork/README/commit/22670cc9e4b27d5f2993c57595e2c8a54f0aebc4 
