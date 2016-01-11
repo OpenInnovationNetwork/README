@@ -1,4 +1,4 @@
-Unless otherwise specific, content in this repository is subject to the MIT License directly below.
+Unless [otherwise specific](https://github.com/OpenInnovationNetwork/README/blob/gh-pages/LICENSE.md#other-licenses), content in this repository is subject to the MIT License directly below.
 
 # License Terms
 
