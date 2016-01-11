@@ -29,7 +29,9 @@ SOFTWARE.
 ### License for  js/isotope.pkgd.min.js
 
 The JavaScript used for filtering cards and other content is subject to the following non-MIT license:
-https://github.com/OpenInnovationNetwork/isotope#license
+https://github.com/OpenInnovationNetwork/isotope#license   
+
+As of January 10, 2016, more information about the license terms is available at: http://isotope.metafizzy.co/license.html  
 
 This JavaScript content is encapsulated entirely within the following file:
 https://github.com/OpenInnovationNetwork/README/commit/22670cc9e4b27d5f2993c57595e2c8a54f0aebc4 
