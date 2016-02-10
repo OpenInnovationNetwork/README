@@ -4,6 +4,15 @@ The README Repo for Open Innovation Network
 
 For web view of this repo, see: http://openinnovationnetwork.github.io/README
 
+## How the Network Operates
+
+Git.
+
+See: http://stackoverflow.com/a/23853061/4273675
+
+
+## Gallery of the Network
+
 Example of Cards that Show on One Gallery Page Taken from Multiple Different Repoitories: 
 
 * http://openinnovationnetwork.github.io/Projects/
