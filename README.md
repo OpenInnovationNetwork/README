@@ -16,3 +16,11 @@ Example of next step alpha stage ratings:
 Syntax of the REST call to get the JSON objects for each project:
 
 * https://api.github.com/repos/OpenInnovationNetwork/Projects/contents/projects 
+
+Potential Standard Project Page for Node Projects:
+
+* http://consentreceipt.openconsent.org/ 
+
+Future file structure may best mirror expected format for readthedocs projects 
+
+* readthedocs.org
